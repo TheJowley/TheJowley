@@ -10,10 +10,6 @@ I'm a Java developer from Ukraine.
 
 I'm interested in web development, games.
 
-## 📌Pinned
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheJowley&repo=ItManuals&theme=dracula&bg_color=00000000&)](https://github.com/TheJowley/ItManuals)
-
-
 
   <summary><h2>📚 My stack</h2></summary>
   <p>
@@ -35,6 +31,5 @@ I'm interested in web development, games.
    <br>
    <img src="https://github-readme-stats.vercel.app/api?username=TheJowley&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
     <br>
-   <img src="https://metrics.lecoq.io/thejowley" />
   </p>
 
