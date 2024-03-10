@@ -29,12 +29,12 @@ I'm interested in web development, games.
 
 
 <details align="left">
-  <h2><b>⭐GitHub stats</b></h2>
-  <br>
+  <b>⭐GitHub stats</b>
+  <p>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheJowley&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
    <br>
    <img src="https://github-readme-stats.vercel.app/api?username=TheJowley&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
     <br>
    <img src="https://metrics.lecoq.io/thejowley" />
-  </br>
+  </p>
 </details>
