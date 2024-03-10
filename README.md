@@ -14,8 +14,8 @@ I'm interested in web development, games.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheJowley&repo=ItManuals&theme=dracula&bg_color=00000000&)](https://github.com/TheJowley/ItManuals)
 
 
-<details align="left">
-  <h2><b>📚 My stack</b></h2>
+
+  <summary><h2>📚 My stack</h2></summary>
   <p>
     <h3>Langs</h3>
     <img src="https://skillicons.dev/icons?i=py,java&perline=7" />
@@ -25,10 +25,10 @@ I'm interested in web development, games.
     <img src="https://skillicons.dev/icons?i=visualstudio,idea,&perline=7" />
     <br>
   </p>
-</details>
 
 
-<details align="left">
+
+
   <summary><h2>⭐GitHub stats</h2></summary>
   <p>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheJowley&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
@@ -37,4 +37,4 @@ I'm interested in web development, games.
     <br>
    <img src="https://metrics.lecoq.io/thejowley" />
   </p>
-</details>
+
